@@ -89,3 +89,4 @@ example.org (remove this line and put your own instance domain name here)
 
 ### Your mailing address
 
+(some people will feel better knowing they can contact you off-line if necessary)
