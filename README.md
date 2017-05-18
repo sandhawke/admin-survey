@@ -54,13 +54,13 @@ figured this out, say "None" or leave blank.)
 
 ### Who would you like to see as users?
 
-### Who would you prefer not user your instance?
-
 ### What kind of content goes beyond "free speech" and will get removed if reported?
 
 ### Profile URLs for others who share admin responsibility (say "none" if it's just you)
 
-### Will someone respond to fix site problems 24x7x365? If not, when is there coverage?
+### Will someone respond to fix site problems 24x7x365? If not, when will site issues be addressed?
+
+(Be honest.  Maybe the answer is "it might take a few days".)
 
 ### What relevant experience do you and/or your team have as system administrators?
 
@@ -68,21 +68,22 @@ figured this out, say "None" or leave blank.)
 
 ### Domain name of hosting company or colocation data center
 
-### How many servers?
+### Number of servers?
 
 (Probably 1 for small sites.  This may be useful to developers and other admins, as well as users)
 
-### How many cores in total?
+### Number of cores in total?
 
-### How many GB RAM in total?
+### GB RAM in total?
 
-### How many GB persistent storage currently in use?
+### GB persistent storage currently in use?
 
 ### Monthly hosting cost (including units like USD or EUR)
 
 ### URL for an icon or image for your instance
 
-(only if you have one, of course.  it's fine to leave these blank.)
+(only if you have one, of course.  it's fine to leave these blank.   but maybe you can find a
+picture captures the spririt of your instance.)
 
 ### URL of a recent photo of you 
 
