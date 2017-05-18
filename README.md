@@ -10,7 +10,7 @@ To answer this survey:
    fork this repo.
 2. Edit the document, filling in your answers.  Do not edit the headings.
 3. If there are other questions you think should be on this survey, feel
-   free to add them, with your to your response, using the same format.
+   free to add them (along with your response) using the same format.
 4. Using your admin account, reply to this post https://coming-some
 5. In your reply, include a link to your filled out survey and use the 
    hashtag #adminsurvey
@@ -27,16 +27,15 @@ You may want to revisit your survey answers occasionally,
 in case important new questions have been added or your answers have 
 changed.
 
-This survey started at https://github.com/sandhawke/admin-survey
-
-This document is intended to be parsed as markdown, or the resulting
-html, with the questions starting with '###' (html h3) and the answer 
-being the text after the question and before the next question.  The
-text of the questions is intended to be matched exactly; if you change
-the question at all, systems gathering results will think its a new
-question.
+This document is intended to be parsed as markdown with the questions/topics 
+prefixed with ### and the answers being all the text until
+the next ### or end of document. The heading text is intended to be matched 
+exactly; if you change the question at all, systems gathering results will 
+think its a new question.
 
 ### Domain name
+
+example.org (remove this line and put your own instance domain name here)
 
 ### Creation date (yyyy-mm-dd)
 
@@ -50,11 +49,11 @@ question.
 
 ### Who would you prefer not sign up as a user?
 
-### What kind of content goes beyond "free speech" and will get removed?
+### What kind of content goes beyond "free speech" and will get removed if reported?
 
 ### Profile URLs for others who share admin responsibility (say "none" if it's just you)
 
-### Will someone respond to fix site problems 24x7x365?  If not, when is there coverage?
+### Will someone respond to fix site problems 24x7x365? If not, when is there coverage?
 
 ### What relevant experience do you and/or your team have as system administrators?
 
@@ -76,7 +75,11 @@ question.
 
 ### URL of a recent photo of you 
 
+### URL of a video of you discussing your answers to this survey
+
 ### Your legal name
+
+### What you prefer to be called in this context
 
 ### Your mailing address
 
