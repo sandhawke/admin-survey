@@ -3,7 +3,8 @@ other decentralized social software. Its goal is to allow prospective
 users (and current users) to make informed decisions about
 whether they want to use your instance.  The survey and every question
 on it is entirely optional.  If you're confident a question won't matter
-to the people you want as users, then feel free to skip it.
+to the people you want as users, then feel free to skip it.  If your
+users are all friends of yours, this probably wont be useful.
 
 To answer this survey:
 1. Make a copy of this survey somewhere on the web.  One option is to just
