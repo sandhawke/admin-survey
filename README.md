@@ -53,6 +53,10 @@ figured this out, say "None" or leave blank.)
 
 ### Where is the money coming from to operate this instance?
 
+(Like, are you donating it, and it's no big deal?  Are you asking for donations?  Do you
+plan to make it a freemium business, with some pay-for-service accounts?  Do you plan to
+mine user data and sell it, or show ads?)
+
 ### Who would you like to see as users?
 
 ### What kind of content goes beyond "free speech" and will get removed if reported?
