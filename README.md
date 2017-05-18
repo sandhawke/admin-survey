@@ -63,19 +63,25 @@ example.org (remove this line and put your own instance domain name here)
 
 ### How many servers?
 
+(Probably 1 for small sites.  This may be useful to developers and other admins, as well as users)
+
 ### How many cores in total?
 
 ### How many GB RAM in total?
 
-### How many GB persistent storage in total?
+### How many GB persistent storage currently in use?
 
 ### Monthly hosting cost (including units like USD or EUR)
 
 ### URL for an icon or image for your instance
 
+(only if you have one, of course.  it's fine to leave these blank.)
+
 ### URL of a recent photo of you 
 
 ### URL of a video of you discussing your answers to this survey
+
+(again, this kind of thing is totally optional.  but it could be fun!)
 
 ### Your legal name
 
