@@ -1,3 +1,5 @@
+**Don't do this yet.  Still being drafted.**
+
 This is a survey for people who run public instances of Mastodon and 
 other decentralized social software. Its goal is to allow prospective
 users (and current users) to make informed decisions about
