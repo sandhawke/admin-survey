@@ -11,7 +11,7 @@ To answer this survey:
 2. Edit the document, filling in your answers.  Do not edit the headings.
 3. If there are other questions you think should be on this survey, feel
    free to add them (along with your response) using the same format.
-4. Using your admin account, reply to this post https://coming-some
+4. Using your admin account, reply to this post https://coming-soon-tbd
 5. In your reply, include a link to your filled out survey and use the 
    hashtag #adminsurvey
 
