@@ -38,7 +38,17 @@ think its a new question.
 
 example.org (remove this line and put your own instance domain name here)
 
+### What inspired you to create this instance?
+
 ### Creation date (yyyy-mm-dd)
+
+### Where is the money coming from to operate this instance?
+
+(Like, are you donating it, and it's no big deal?  Are you asking for donations?  Do you
+plan to make it a freemium business, with some pay-for-service accounts?  Do you plan to
+mine user data and sell it, or show ads?)
+
+### Who would you like to see as users?
 
 ### Do you promise to giving your users at least 7 days notice before shutting down?
 
@@ -51,16 +61,6 @@ you get very sick, or there's a natural disaster that brings down the internet f
 your part of the world.  Sometimes asked as "What if you get hit by a bus".  If you haven't
 figured this out, say "None" or leave blank.)
 
-### Where is the money coming from to operate this instance?
-
-(Like, are you donating it, and it's no big deal?  Are you asking for donations?  Do you
-plan to make it a freemium business, with some pay-for-service accounts?  Do you plan to
-mine user data and sell it, or show ads?)
-
-### Who would you like to see as users?
-
-### What kind of content goes beyond "free speech" and will get removed if reported?
-
 ### Profile URLs for others who share admin responsibility (say "none" if it's just you)
 
 ### Will someone respond to fix site problems 24x7x365? If not, when will site issues be addressed?
@@ -70,6 +70,8 @@ mine user data and sell it, or show ads?)
 ### What relevant experience do you and/or your team have as system administrators?
 
 ### What relevant experience do you and/or your team have as moderators?
+
+### What kind of content goes beyond "free speech" and will get removed if reported?
 
 ### Domain name of hosting company or colocation data center
 
