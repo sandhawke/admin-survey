@@ -43,11 +43,18 @@ example.org (remove this line and put your own instance domain name here)
 
 ### Do you promise to giving your users at least 90 days notice before shutting down?
 
+### Contingency plans
+
+(Uncomfortable question, but what happens if you are unable to function as admin?  Perhaps
+you get very sick, or there's a natural disaster that brings down the internet for weeks in
+your part of the world.  Sometimes asked as "What if you get hit by a bus".  If you haven't
+figured this out, say "None" or leave blank.)
+
 ### Where is the money coming from to operate this instance?
 
 ### Who would you like to see as users?
 
-### Who would you prefer not sign up as a user?
+### Who would you prefer not user your instance?
 
 ### What kind of content goes beyond "free speech" and will get removed if reported?
 
