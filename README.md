@@ -77,6 +77,11 @@ figured this out, say "None" or leave blank.)
 
 ### Philosophy about which software versions/forks/plugins the site runs
 
+(Do you install release candidates?   How quickly do you install official releases?  Do you 
+have local modifications?  How much you decide which plugs to install, if they start to be 
+common?   Any thoughts on what you'll do if there's ever a fork in the main software you
+use?)
+
 ### Domain name of hosting company or colocation data center
 
 ### Number of servers?
