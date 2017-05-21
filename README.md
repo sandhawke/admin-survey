@@ -75,6 +75,8 @@ figured this out, say "None" or leave blank.)
 
 ### What kind of content goes beyond "free speech" and will get removed if reported?
 
+### Philosophy about which software versions/forks/plugins the site runs
+
 ### Domain name of hosting company or colocation data center
 
 ### Number of servers?
